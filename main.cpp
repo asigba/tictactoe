@@ -4,6 +4,13 @@
 using namespace std;
 
 int main() {
-	cout << "Hello World." << endl;
+	int width {};
+	cin >> width;
+	cout << width;
+
+	width = 7;
+
+	cout << width;
+
 	return 0;
 }
