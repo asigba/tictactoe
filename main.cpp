@@ -8,7 +8,7 @@ int main() {
 	cin >> width;
 	cout << width;
 
-	width = 4;
+	width = 1;
 
 	cout << width;
 
